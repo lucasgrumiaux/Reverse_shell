@@ -10,3 +10,7 @@ But :
 
 Amélioration de ma part :
 - chiffrement entre les deux programmes
+
+Améliorations futures :
+- Keylogger avec envoie du fichier texte par mail
+- Processus qui se cache
